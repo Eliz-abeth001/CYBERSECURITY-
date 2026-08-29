@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Week 3 Learning Objectives 
 
 Windows fundamentals
@@ -343,3 +344,6 @@ Linux processes vs Windows processes. The concept is basically the same.
 - MOBILE DEVICES(DISPLAY TYPES, ACCESSORIES, COMPONENTS, WIRELESS & WIRED CONNECTIVITY, MDM & MAM, SYNCHRONIZATION, MOBILE APPLICATION, LAPTOP HARDWARE)
 - PRINTERS(TYPES, MANAGEMENT....)
 - 
+=======
+
+>>>>>>> 6959dd1c6e36527cf765173f302203ddacf1964a
