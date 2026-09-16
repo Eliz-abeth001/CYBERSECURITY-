@@ -1,4 +1,4 @@
-# Week 2 Learning Objectives
+# Week 2 Learning Objectives (10th August- 16th August) 
 
 1. Complete 15hours of CompTIA A+ Core 1 (220-1201) 
 2. ⁠Learn:
@@ -62,7 +62,7 @@ They are common levels in a CPU;
 - L2 (not as fast as the first)
 - L3 (Larger but slower)
 
-CACHE:It is a very fast memory located on or close to the CPU. it's a high speed memoory in the CPU known and it as a small amount of space but very fast. 
+CACHE:It is a very fast memory located on or close to the CPU. it's a high speed memory in the CPU known and it as a small amount of space but very fast. 
 
 CPU generate heat and needs cooling with the use of the cooling fan. 
 
@@ -81,13 +81,13 @@ All these help to cool the heat while using the CPU.
 
 # RAM(RANDOM ACCESS MEMORY)
 
-RAM is also called system memory which is use to store data temporarily while the computer is on. it's called "Volatile" which means information is lost when power is removed. RAM is use to load application and files into a non-persistent, fast storage area so the processor can access the data when it need it. RAM is the copmputer temporary working memory. 
+RAM is also called system memory which is use to store data temporarily while the computer is on. it's called "Volatile" which means information is lost when power is off. RAM is use to load application and files into a non-persistent, fast storage area so the processor can access the data when it need it. RAM is the copmputer temporary working memory. 
 
 I. RAM SPEED
 
 Random Access Memory is measured in GB(gigabytes) e.g, 4 GB, 8 GB, 16 GB, 18 GB, 32 GB, 64 GB
 The speed is usually called "Throughput" and it's calculated based on the bus speed and the width of the data bus.
-
+- * Throughput: it is tha actual amount of data successfully transferred per unit of time for example a connection has a bandwith of 100mps but data is received at 70mbps then the throughput is 70 Mbps
 - For Workstation(16GB of RAM)
 - For Gaming(32GB/64 GB of RAM) 
 
@@ -95,7 +95,7 @@ NOTE: Using 64bit of processor can access more than 4GB of RAM which is better t
 
 II. MEMORY MODULES
 
-NOTE: Between the memory and the cpu there is somethimg called "memory controller" Bus(control data) then data pathway(send and receive data) and address pathway(location of which the data is from either in 32 bit or 64 bit)
+NOTE: Between the Memory and the CPU there is somethimg called "Memory Controller" Bus(control data) then data pathway(send and receive data) and address pathway(location of which the data is from either in 32 bit or 64 bit)
 
 The type of memory to use is determine by the type of motherboard and the form factor. Form factor means(type, size & speed)
 
@@ -108,7 +108,7 @@ Dual Date Rate(DDR): This is the most common type of memory used in most system.
 - Double Data Rate 3: This runs at a lower voltage & higher speed than DDR2
 - Double Data Rate 4 & 5: They both run in version four & five at 128GB/s e.g PC 5- 42000 to 42000MB/s = 42GB/s
 
-They are other types of memory modlues including the ones that came before the listed above. 
+There are other types of memory modlues including the ones that came before the listed above. 
 
 - Synchronous RAM Static Dynamic RAM (SDRAM): First memory module that operates at the same time as the motherboard bus. 
 - Small Outline Dual In-Line Memory Module(SODIMM): Smaller memory module that is commonly use in laptops and other compact devices. 
@@ -137,7 +137,7 @@ Computer storage is where information or data is kept parmanently even when the 
 - Games
 - Downloads e.t.c
 
-Storage can also be called Mass storage device(e.g, hard drives, CD roms...) that holds more data but slower than RAM and Cache which is faster than RAM. 
+Storage can also be called Mass storage device(e.g, hard drives, CD roms...) that holds more data but can be slower than RAM and Cache which is faster than RAM. 
 
 I. STORAGE SPEED
 
@@ -327,7 +327,7 @@ They are three functions of a computer which are:
  Types of Application: Microsoft word, Excel, Powerpoint, Chrome, Firefox, Safari, Spotify, Antivirus software, firewall software e.t.c
  When an application is installed, the computer places the neccessary program files and suporting information onto storage.
 
- Keeping Application updated in neccessary in security practice. e.g, bug fixes, new features, security fixes...
+ Keeping Application updated is neccessary in security practice. e.g, bug fixes, new features, security fixes...
 
  " A browser has a security vulnerability. The developer releases an update that fixes it. 
 
@@ -467,7 +467,7 @@ NFTS supports permissions. That means you caan conttol who is allowed to have ac
 
  ext does the same like other file system, it is just use in linux computer..
 
- JOUNALING(it keep record of certain changes/operations so it can help maintain consistency after things like an unexpected shutdown). FILE PERMISSIONS(e.g, Owner, Group, Others...) AND OTHE SECURITY FEATURES ARE SUPPORTED IN ext4 also.It works with linux permissions and ownership system. 
+ JOUNALING(it keep record of certain changes/operations so it can help maintain consistency after things like an unexpected shutdown). FILE PERMISSIONS(e.g, Owner, Group, Others...) AND OTHE SECURITY FEATURES ARE SUPPORTED IN ext4 also. It works with linux permissions and ownership system. 
 
  rwx in linux means, Read, Write and X means Execute
 
@@ -567,24 +567,80 @@ They are not the same. A password can be used as part of an authentication or ke
 
 STORAGE>HOLDS DATA> PARTITION> DIVIDES STORAGE LOGICALLY> FILE SYSTEM>ORGANIZE DATA(NFTS-WINDOWS, FAT32-BROAD COMPABILITY, EXT4-LINUX)>DIRECTORY>ORGANIZE FILES> FILES>CONTAINS DATA> PERMISSIONS>CONTOL WHO CAN ACCESS> BACKUP>PROVIDES A RECOVERY COPY> ENCRYPTION>PROTECT DATA FROM UNATHORIZED READING 
 
-# COMPTIA A+ CORE 1
-- COMPUTER BASICS(MEANING OF COMPUTER, TYPES OF DEVICES,THEIR FUNCTIONS..)
-- COMPUTER COMPONENTS(HARDWARE,SOFTWARE & FIRMWARE AND THEIR FUNCTIONS..)
-- A BRIEF EXPLAINATION OF 6 TROUBLESHOOTING METHODOLOGY(IETEVD)
-- COMPUTER SPEED(BITS & BYTES)
-- DOMAIN 3(HARDWARE)
-- USB CONNECTOR TYPES
-- USB CABLES
-- VIDEO CABLES(HDMI,DISPLAYPORT,DVI,VGATHUNDERBOLT,USB)
-- STORAGE CABLES(SATA, THUNDERBOLT, LIGHTING...)
-- MOTHERBOARD(MEANING, SPEED, FORMFACTORS, CPU SOCKET, CONNECTIONS, INSTALLATION)
-- COOLING FAN
-- POWER SUPPLY UNIT(DIRECT CURRENT AND ALTERNATING CURRENT, FUNCTION, INPUT&OUTPUT VOLTAGE..)
-- RAM(MEANING, SPEED,...)
-- BIOS/UEFI
-- STORAGE DEVICES(HDD&SSD, REMOVEABLE STORAGE...)
-- VIRTUALIZATION
+# COMPTIA A+ CORE  1
 
+Some of the explanation above on RAM(MEANING, SPEED,...), BIOS/UEFI, STORAGE DEVICES(HDD&SSD, REMOVEABLE STORAGE...) was also from what i learnt in COMPTIA A+ while i learnt other things such as;
+##  COMPUTER BASICS(MEANING OF COMPUTER, TYPES OF DEVICES,THEIR FUNCTIONS..)
+
+- * I learnt what computer means, which is an electronic device with many functions use to process and store data. Any device that make use of Input, Processing, Storage and Output can be classified as a computer.
+- * They are different forms of computer category, e.g, workstations, servers, laptops, tablets, smartphone, smart devices e.g, (smartwatch), Internet of Things devices. These devices has different funtions and how it's operated.
+
+## COMPUTER COMPONENTS(HARDWARE,SOFTWARE & FIRMWARE AND THEIR FUNCTIONS..)
+Every computer relies on three main component;
+- Hardware:(The physical part of the computer)
+- Sofware: They are programs and operating system that instruct hardware what to do such as;
+Operating system e.g, windows, linux, macos, Application sofware e.g, microsoft word or powerpoint, e.t.c...
+- Firmware:(They are softwares embedded in hardware components that controls and manages device's basic fuctions)
+
+## A BRIEF EXPLAINATION OF 6 TROUBLESHOOTING METHODOLOGY(IETEVD)
+According to COMPTIA A+, there are six troubleshooting methods a technician should follow;
+- Identify the problem
+- Establish a theory of probable cause
+- Test the theory to determine the cause
+- Establish a plan of action to resolve the problem aqnd implement a solytion
+- Verify full system functionality and if applicable, implement preventives
+- Document the findings, actions and outcomes.
+
+### COMPUTER SPEED(BITS & BYTES)
+Bits in computer refers to binary digit. A single bit can be store only one of two value which is 1 or 0
+- 4 bits is nibble while 8 bits is Byte
+- 1,000 bits is 1Kb, I Million megabit(Mb), 1 Billion gigabit(Gb), 1 Terabits(Tb)
+Storing data is written in terms of Bytes(1MB) while sending data can be in bits
+
+##  DOMAIN 3(HARDWARE)
+I learnt the physical aspects of a workstation and what can be use to connect some external connections to a computer.
+- USB CONNECTOR TYPES: The Universal Bus as different types such as; USB Type A, Type B(mini&micro) and the versataile one, Type C.
+- USB VERSION: USB 1.0 is the slowest and runs 1.5mps, USB 1.1 Fll speed, transfer rate of 12mbps, USB 2.0 Hi-speed runs 480mbps, USB 3.2 super speed runs 5Gbps and 3.0 runs in 10Gbps.
+
+USB CONNECTORS comes in various forms, sizes each designed for specific devices and purposes.
+
+##  VIDEO CABLES(HDMI,DISPLAYPORT,DVI,VGA,THUNDERBOLT,USB)
+All these part are seen on the physical part of a computer, knowing the right cable to use for its port is essential.
+
+## STORAGE CABLES(SATA)
+Storage Cables are use to connect storage devices to the computer's motherboard allowing data transfer between the storage device and the system. 
+
+Serial Advanced Technology Adttachment(SATA) has two cables(internal and external storage)SATA 7-PIN Data cable(Transfer data only) SATA 15-PIN Power connector(provides the power)
+
+## MOTHERBOARD(MEANING, SPEED, FORMFACTORS, CPU SOCKET, CONNECTIONS, INSTALLATION)
+It is use by the other component of the computer to use external storage and transfer data back and forth between the system.
+
+It speed is measured as Megahertz(MHz) and  Gigahertz(GHz)
+
+Form Factor is the size, shape and layout of a device. it describes the number and type of adapter cards that can be installed within the motherboard. Motherboard form factor comes in different factors,ATX,Mini-ATX, Micro-ATX, Mini-ITX.
+
+They are two types of CPU Sockets that can be found in a motherboard; Intel and AMD. To know the type of motherboard to use, first know the the model and generation of the CPU that can be use. 
+
+Motherboard Connections: CPU Sockets, Memory Sockets, Mainboard Power, CPU Power, Case Fanpower,USB,SATA,Expansion Cards, Power....
+
+## COOLING FAN
+They are three types of cooling fan, Passive-Active-Liquid cooling. All differnt component of the computer generate heat. Using any of the three is used to tranfer out heat because overheating can cause the computer to keep going off intermittently or when the Thermal load get high it can actually burn up the motherboard and it sensitive component. 
+- Passive Cooling: It a type of cooling that rely on components that do not have any moving parts or power(heatsink and thermal paste) 
+- Active Cooling: Uses a fan to cool down the heat from the devices(Commonly use) 
+- Liquid Cooling: Water based and more expensive and diffficult to use.
+
+## POWER SUPPLY UNIT
+The main purpose of Power supply is to deliver Direct Current to all component inside the PC when recieving an AC power Supply.
+
+It is essential to always consider the voltage that is going to be provided to the power before input so it won't cause damage. 
+
+Wattage Rating is the power supply unit's output capacity or capability. 
+
+## VIRTUALIZATION
+It is a host computer that is installed with hypervisor that can be used to install and manage multiple guest operating system or virtual machines.
+- Hypervisor: Hadware that is called bare bones or bare metal that has virtualisation software installed on top of it. They are two types, TYPE 1 AND TYPE 2 Hypervisor.
+
+Undestanding the purpose of this made me download hypervisor which is a software on my pc so i can work on different operating system. I downloaded Virtualbox and installed Windows and Ubuntu as my first operating system for practice. 
 
 
 
