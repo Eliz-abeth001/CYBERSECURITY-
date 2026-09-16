@@ -1,8 +1,8 @@
-# WEEK 1 LEARNING REPORT  
+# WEEK 1 LEARNING REPORT  (3rd August-9th August, 2026)
 
 This week, I began building my foundation on cybersecurity. I learned about; 
 * What cybersecurity is
-* Understood what Blue Team, Red Team, GRC, Cloud Security, and Security Engineering is
+* Understood what Blue Team, Red Team, GRC, Cloud Security, and Security Engineering does
 * Understood the duties of a SOC Analyst
 * What Information Security means
 * Confidentiality, Intergrity, Availability
@@ -13,7 +13,7 @@ This week, I began building my foundation on cybersecurity. I learned about;
 
 ## 1. What Is Cybersecurity?
 
-Cybersecurity is the protection of devices e.g, computers, phones, tablets e.t.c, networks e.g wifi, office internet e.t.c, applications, websites and all other digital from cybercriminals or unauthorized access, attacks, or any digital threat. Cybersecurity is important because almost everything today uses technology e.g banks, school, hospitals....They are many roles under Cybersecurity. It's very broad. 
+Cybersecurity is the protection of devices such as; (computers, phones, tablets and other devices) networks e.g wifi, office internet e.t.c, applications, websites and all other digital from cybercriminals or unauthorized access, attacks, or any digital threat. Cybersecurity is important because almost everything today uses technology e.g banks, school, hospitals e.t.c.They are many roles under Cybersecurity. It's very broad. 
 
 # 2. Blue Team, Read Team, GRC, Cloud Security and Security Engineering
 
@@ -28,7 +28,7 @@ This team is responsible for defending and protecting systems and attacks. Their
 * Protecting Systems And Data
 * Improving Security Contols
 
-NOTE: They are many other career that does similiar jobs to what is mentioned above e.g SOC Analyst, Incident Responder.......
+NOTE: The above listed are the roles of SOC Analyst, Incident Responder, Security Analyst, Security Engineer and other defensive roles.
 
 ## II. Red Team
 
@@ -39,7 +39,7 @@ The Red Team the role of an attacker. They are "Ethical Hacker" that are allowed
 * Find Weakness
 * Performs Ethical Hacking
 * Reports Vulnerabilities
-The Penetration Tester also does the same thing.
+Common roles includess, Ethical Hackers, Penetration Testers, Vulnerability Researcher and other offensive roles.
 
 ## III. GRC
 
@@ -109,15 +109,15 @@ NOTE: A Level 1 SOC Analyst is often one of the first people to examine incoming
 - Firewalls
 - Threat Intelligence Platform
 
-BASICALLY GRC, BLUE TEAM, RED TEAM AND SOC ANALYST ALL WORK TOGETHER TO PTOTECT BUT HAVE DIFFERNT JOBS.
+BASICALLY GRC, BLUE TEAM, RED TEAM AND SOC ANALYST ALL WORK TOGETHER TO PTOTECT BUT HAVE DIFFERNT WAYS OF CARRYING OUT THEIR JOBS.
 
 # 4. Information Security
 
 Also called InfoSec, is the protection of information from being seen by unathorized people. Information Security protect all sort of information no matter where it is. Examples are;
 
-- Passwords, Bank account details, AtmPins, Medical records, School records.....
+- Passwords, Bank account details, AtmPins, Medical records, School records, e.t.c
 
-Cybersecurity is closely related to information security but cybersecurity has a broader focus on protecting digital systems, networks, devices...
+Cybersecurity is closely related to information security but InfoSec has a broader focus on protecting digital systems, physical infomations, verbal information and other forms like information stored on USB drive. That is what lead me to what i will be discussing next which is on CIA. The main goal is to protect Information.
 
 # 5. CIA
 
@@ -126,27 +126,21 @@ CIA stand for:
 
 ## Confidentiality
 
-This means only authorized people can have access to information. e.g ATM Pin(my pin is only for me and me alone to know) if someone eles steals my pin then confidentiality is broken.
+This means only authorized people can have access to information. e.g ATM Pin(my pin is only for me and me alone to know) if someone else steals my pin then confidentiality is broken.
 
-- How To Protect?
-
-E.g, MFA, Encryption, Access control...
+- How To Protect the Information, E.g, MFA, Encryption, Access control...
 
 ## Intergrity
 
 This means information remain correct, complete and unchanged unless an unathorized person updates it. 
 
-- How To Protect?
-
-E.g, File Permissions, Digital Signatures, Audit logs.
+- How To Protect the Information, E.g, File Permissions, Digital Signatures, Audit logs.
 
 ## Availability
 
 This means authorized users can have access to information whenever they need it. 
 
-- How To Protect?
-
-E.g, data backups, reliable servers, power backups..
+- How To Protect the information, E.g, data backups, reliable servers, power backups..
 
 # 6. Common Cybersecurity Careers
 
